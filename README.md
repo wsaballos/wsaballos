@@ -1,8 +1,6 @@
 ### Remote Software Engineer
 
 🌱 Currently learning:
-- LangChain
-- RAG
 - OCR
 
 Released Game:
